@@ -48,3 +48,7 @@ _언더바 하나도 기울임으로 표시합니다_
 ![IM_DiGital](/git_image.png)
 
 [텍스트 확인하기](/day_OT/github.txt)
+
+```
+코드 박스가 출력됩니다
+```
