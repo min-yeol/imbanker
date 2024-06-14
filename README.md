@@ -21,4 +21,6 @@
   * 상어
 * 산
   * 호랑이
-  * 사자 
+  * 사자
+
+![IM_DiGital](/git_image.png)
